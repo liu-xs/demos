@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "local":"local",
-    "test23":"test23"
+    "test23":"test23",
+    "44":"44"
   },
   "repository": {
     "type": "git",
